@@ -1,0 +1,89 @@
+[
+    {
+        "firstName": "Lorelai",
+        "lastName": "Gilmore", 
+        "Address": "37 Maple Tree Lane",
+        "City": "Stars Hollow",
+        "State": "Connecticut",
+        "zipCode": "06492",
+        "Birthday": "April 25, 1968",
+        "Hobbies": ["Coffee", "Coffee","Coffee"]
+    },
+
+    {
+        "firstName": "Rory", 
+        "lastName": "Gilmore", 
+        "Address": "37 Maple Tree Lane",
+        "City": "Stars Hollow",
+        "State": "Connecticut",
+        "zipCode": "06492",
+        "Birthday": "October 4, 1984",
+        "Hobbies": ["Coffee", "Reading", "Music"]
+    },
+
+    {
+        "firstName": "Sookie", 
+        "lastName": "St. James", 
+        "Address": "321 Elm Street",
+        "City": "Stars Hollow",
+        "State": "Connecticut",
+        "zipCode": "06492",
+        "Birthday": "December 7, 1968",
+        "Hobbies": ["Cooking", "Going to the market", "Being a mom"]
+    },
+
+    {
+        "firstName": "Lane",
+        "lastName": "Kim", 
+        "Address": "345 Elm Street",
+        "City": "Stars Hollow",
+        "State": "Connecticut",
+        "zipCode": "06492",
+        "Birthday": "November 22, 1984",
+        "Hobbies": ["Drums", "Music","Movies"]
+    },
+
+    {
+        "firstName": "Luke",
+        "lastName": "Kim", 
+        "Address": "37 Maple Tree Lane",
+        "City": "Stars Hollow",
+        "State": "Connecticut",
+        "zipCode": "06492",
+        "Birthday": "April 5, 1965",
+        "Hobbies": ["Fishing", "Camping", "Working at the diner"] 
+    },
+
+    {
+        "firstName": "Babette",
+        "lastName": "Dell",  
+        "Address": "39 Maple Tree Lane",
+        "City": "Stars Hollow",
+        "State": "Connecticut",
+        "zipCode": "06492",
+        "Birthday": "October 30, 1950",
+        "Hobbies": ["Gardening", "Halloween Decorating", "Gossiping"] 
+    },
+
+    {
+        "firstName": "Emily",
+        "lastName": "Gilmore", 
+        "Address": "61 Binscarth Road",
+        "City": "Hartford",
+        "State": "Connecticut",
+        "zipCode": "06112",
+        "Birthday": "June 9, 1945",
+        "Hobbies": ["The DAR", "Bridge Club","High Class Events"] 
+    },
+
+    {
+        "firstName": "Logan",
+        "lastName": "Huntzberger", 
+        "Address": "160 Madison Ave",
+        "City": "New York City",
+        "State": "New York",
+        "zipCode": "10016",
+        "Birthday": "June 9, 1945",
+        "Hobbies": ["The Life and Death Brigade", "Cheese Rolling","Partying"]  
+    }
+]
