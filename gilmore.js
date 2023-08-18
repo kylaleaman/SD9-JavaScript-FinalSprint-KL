@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch('gilmoregirls.json')
       .then(response => response.json())
       .then(gilmoregirls => {
-          let html = '<h1>Gilmore Girls JSON Project</h1>';
+          let html = '<h1>Gilmore Girls Firelight Festival Database</h1>';
 
           gilmoregirls.forEach(character => {
               html += `
